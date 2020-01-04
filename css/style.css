@@ -1,0 +1,35 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+.logo h1 {
+  color: #00bfa5;
+  font-family: "Pacifico", cursive;
+}
+.logo {
+  background-color: #212121;
+  text-align: center;
+}
+
+.pp {
+  padding: 2em;
+}
+.support {
+  background-color: #212121;
+  color: white;
+}
+
+.support h1 {
+  padding: 20px;
+}
+
+.support p {
+  padding: 20px;
+}
+
+.support ul {
+  padding: 20px;
+}
